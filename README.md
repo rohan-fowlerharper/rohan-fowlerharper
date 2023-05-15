@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rohan-fowlerharper
-- 🌱 I'm currently working as a Bootcamp Facilitator at Dev Academy Aotearoa.
+- 👋 Kia Ora, I’m @rohan-fowlerharper
+- 🌱 I'm currently working as a Teacher and Developer at Dev Academy Aotearoa.
 - 📫 linkedin @ https://www.linkedin.com/in/rohan-fowler-harper/ :)
 
 <!---
